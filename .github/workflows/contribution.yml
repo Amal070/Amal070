@@ -1,0 +1,60 @@
+name: Generate Contribution Activity
+
+on:
+  schedule:
+    # Runs every 12 hours automatically
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Generate Activity Graph & Snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 1. Generate Activity Graph (Cyan / React Dark - matches your screenshot)
+      - name: Generate Activity Graph (Default / Screenshot Style)
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=react-dark&bg_color=0D1117&line=58A6FF&point=58A6FF&area=true&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Generate Activity Graph (Emerald Green - matches your profile theme)
+      - name: Generate Activity Graph (Emerald Green Style)
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: bg_color=0D1117&title_color=1B7A43&color=9BE600&line=1B7A43&point=9BE600&area=true&hide_border=true&area_color=1B7A43
+          output_path: dist/activity-graph-emerald.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Generate Contribution Grid Snake Animation
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 4. Push generated SVGs to the 'output' branch
+      - name: Push SVGs to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
