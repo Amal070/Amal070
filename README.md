@@ -4,7 +4,7 @@
 
 # AMAL SHAJI
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=9BE600&background=0D1117&center=true&vCenter=true&width=900&lines=PYTHON+DEVELOPER;FULL-STACK+DEVELOPER;AI+ENGINEER;RAG+%26+BLOCKCHAIN+SYSTEMS" alt="Pixel role typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=9BE600&background=0D1117&center=true&vCenter=true&width=900&lines=PYTHON+DEVELOPER;FULL-STACK+DEVELOPER;AI+ENGINEER" alt="Pixel role typing animation" />
 
 <br/>
 
