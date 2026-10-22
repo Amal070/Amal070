@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D1117,100:1B7A43&height=150&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,70:1B7A43,100:2EA043&height=160&section=header" width="100%"/>
 
 # AMAL SHAJI
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=9BE600&background=0D1117&center=true&vCenter=true&width=900&lines=PYTHON+DEVELOPER;FULL-STACK+DEVELOPER;AI+ENGINEER" alt="Pixel role typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=9BE600&center=true&vCenter=true&width=900&lines=PYTHON+DEVELOPER;FULL-STACK+DEVELOPER;AI+ENGINEER" alt="Pixel role typing animation" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-1B7A43?style=for-the-badge&labelColor=0D1117)](https://your-portfolio-site.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1B7A43?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&labelColor=0D1117)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-1B7A43?style=for-the-badge&logo=gmail&logoColor=1B7A43&labelColor=0D1117)](mailto:youremail@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-1B7A43?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://your-portfolio-site.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amal%20Shaji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/amal--shaji)
+[![Email](https://img.shields.io/badge/Email-amalshajimgply%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:amalshajimgply@gmail.com)
 
 <br/>
 
@@ -31,6 +31,10 @@ class AmalShaji:
         self.focus      = ["LLMs & RAG", "Semantic Search", "Blockchain Systems", "Django & FastAPI", "React"]
         self.building   = "AI systems that reason over real, private data"
         self.philosophy = "Ship it. Measure it. Keep it grounded."
+        self.contact    = {
+            "linkedin": "https://www.linkedin.com/in/amal--shaji",
+            "email": "amalshajimgply@gmail.com"
+        }
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something intelligent together.")
@@ -55,8 +59,8 @@ I build complete systems end to end — backend logic, frontend interfaces, and 
 
 ### 🤖 AI / ML
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
-[![FAISS](https://img.shields.io/badge/FAISS-2DDE98?style=for-the-badge&logo=apache&logoColor=white)](#)
-[![Ollama](https://img.shields.io/badge/Ollama-8A2BE2?style=for-the-badge&logo=ollama&logoColor=white)](#)
+[![FAISS](https://img.shields.io/badge/FAISS-0081FB?style=for-the-badge&logo=meta&logoColor=white)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](#)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](#)
 
 ### 🎨 Frontend
@@ -95,14 +99,18 @@ A production-grade platform that lets you have a **natural-language conversation
 ![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=1B7A43)
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=1B7A43)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=1B7A43)
-![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=flat-square&logoColor=1B7A43)
-![FAISS](https://img.shields.io/badge/-FAISS-0D1117?style=flat-square&logoColor=1B7A43)
+![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1B7A43)
+![FAISS](https://img.shields.io/badge/-FAISS-0D1117?style=flat-square&logo=meta&logoColor=1B7A43)
 
 **Highlights:**
 - 🔎 Tree-sitter AST parsing → semantic code chunking
 - 🧬 Nomic embeddings + FAISS vector search for retrieval
 - 🔐 JWT auth, multi-tenant isolation, prompt-injection defense
 - 🧪 Full pytest suite across the Python/Django/React pipeline
+
+<br/>
+
+[**Explore CodeSage AI ➔**](https://github.com/Amal070/CodeSage-AI)
 
 </td>
 <td width="50%" valign="top">
@@ -124,12 +132,16 @@ A digital certificate verification system combining **Blockchain + AI** to stop 
 - 🤖 AI-assisted authenticity verification workflow
 - 🏗️ Modular Django architecture (accounts, institute, students, admin)
 
+<br/>
+
+[**Explore CertiVault ➔**](https://github.com/Amal070/CertiVault-Blockchain)
+
 </td>
 </tr>
 </table>
 
 <div align="center">
-<i>📌 Send me the names/descriptions of your other pinned repos and I'll add matching cards here in the same format.</i>
+<a href="https://github.com/Amal070?tab=repositories"><b>⚡ Explore all repositories on GitHub ➔</b></a>
 </div>
 
 ---
@@ -138,12 +150,12 @@ A digital certificate verification system combining **Blockchain + AI** to stop 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amal070&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1B7A43&icon_color=1B7A43&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal070&layout=compact&hide_border=true&bg_color=0D1117&title_color=1B7A43&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amal070&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=38EF7D&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal070&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=c9d1d9" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Amal070&hide_border=true&background=0D1117&ring=1B7A43&fire=1B7A43&currStreakLabel=1B7A43&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Amal070&hide_border=true&background=0D1117&ring=2EA043&fire=38EF7D&currStreakLabel=2EA043&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="165"/>
 
 </div>
 
@@ -186,12 +198,19 @@ A digital certificate verification system combining **Blockchain + AI** to stop 
 
 I'm always open to interesting conversations, collaborations, and opportunities.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-1B7A43?style=for-the-badge&labelColor=0D1117)](https://your-portfolio-site.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1B7A43?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&labelColor=0D1117)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-1B7A43?style=for-the-badge&logo=gmail&logoColor=1B7A43&labelColor=0D1117)](mailto:youremail@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-1B7A43?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://your-portfolio-site.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amal%20Shaji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/amal--shaji)
+[![Email](https://img.shields.io/badge/Email-amalshajimgply%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:amalshajimgply@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B7A43,50:0D1117,100:0D1117&height=100&section=footer" width="100%"/>
+| Platform | Details | Direct Link |
+| :--- | :--- | :--- |
+| 💼 **LinkedIn** | Professional Profile & Network | [linkedin.com/in/amal--shaji](https://www.linkedin.com/in/amal--shaji) |
+| ✉️ **Email** | Direct Inquiries & Collaboration | [amalshajimgply@gmail.com](mailto:amalshajimgply@gmail.com) |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,40:1B7A43,100:0D1117&height=110&section=footer" width="100%"/>
 
 </div>
