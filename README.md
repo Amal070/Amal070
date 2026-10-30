@@ -155,7 +155,7 @@ A digital certificate verification system combining **Blockchain + AI** to stop 
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Amal070&hide_border=true&background=0D1117&ring=2EA043&fire=38EF7D&currStreakLabel=2EA043&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Amal070&hide_border=true&background=0D1117&ring=2EA043&fire=38EF7D&currStreakLabel=2EA043&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&timezone=Asia/Kolkata" height="165"/>
 
 </div>
 
