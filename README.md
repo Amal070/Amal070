@@ -150,8 +150,8 @@ A digital certificate verification system combining **Blockchain + AI** to stop 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amal070&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=38EF7D&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal070&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=c9d1d9" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Amal070&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=38EF7D&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amal070&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=c9d1d9" height="165"/>
 
 <br/>
 
