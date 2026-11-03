@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-1B7A43?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://portfolio.amalshaji7cr7.workers.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-1B7A43?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://portfolio.amal-shaji.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amal%20Shaji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/amal--shaji)
 [![Email](https://img.shields.io/badge/Email-amalshajimgply%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:amalshajimgply@gmail.com)
 
@@ -32,7 +32,7 @@ class AmalShaji:
         self.building   = "AI systems that reason over real, private data"
         self.philosophy = "Ship it. Measure it. Keep it grounded."
         self.contact    = {
-            "portfolio": "https://portfolio.amalshaji7cr7.workers.dev/",
+            "portfolio": "https://portfolio.amal-shaji.workers.dev/",
             "linkedin": "https://www.linkedin.com/in/amal--shaji",
             "email": "amalshajimgply@gmail.com"
         }
@@ -199,7 +199,7 @@ A digital certificate verification system combining **Blockchain + AI** to stop 
 
 I'm always open to interesting conversations, collaborations, and opportunities.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-1B7A43?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://portfolio.amalshaji7cr7.workers.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-1B7A43?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://portfolio.amal-shaji.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amal%20Shaji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/amal--shaji)
 [![Email](https://img.shields.io/badge/Email-amalshajimgply%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:amalshajimgply@gmail.com)
 
@@ -207,7 +207,7 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 
 | Platform | Details | Direct Link |
 | :--- | :--- | :--- |
-| 🌐 **Portfolio** | Interactive Developer Portfolio | [portfolio.amalshaji7cr7.workers.dev](https://portfolio.amalshaji7cr7.workers.dev/) |
+| 🌐 **Portfolio** | Interactive Developer Portfolio | [portfolio.amal-shaji.workers.dev](https://portfolio.amal-shaji.workers.dev/) |
 | 💼 **LinkedIn** | Professional Profile & Network | [linkedin.com/in/amal--shaji](https://www.linkedin.com/in/amal--shaji) |
 | ✉️ **Email** | Direct Inquiries & Collaboration | [amalshajimgply@gmail.com](mailto:amalshajimgply@gmail.com) |
 
