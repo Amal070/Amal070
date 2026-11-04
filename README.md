@@ -28,7 +28,10 @@ class AmalShaji:
     def __init__(self):
         self.name       = "Amal Shaji"
         self.roles      = ["Python Developer", "Full-Stack Developer", "AI Engineer"]
-        self.focus      = ["LLMs & RAG", "Semantic Search", "Blockchain Systems", "Django & FastAPI", "React"]
+        self.focus      = [
+            "LLMs & RAG", "Semantic Search",
+            "Blockchain Systems", "Django & FastAPI", "React"
+        ]
         self.building   = "AI systems that reason over real, private data"
         self.philosophy = "Ship it. Measure it. Keep it grounded."
 
