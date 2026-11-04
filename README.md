@@ -31,11 +31,6 @@ class AmalShaji:
         self.focus      = ["LLMs & RAG", "Semantic Search", "Blockchain Systems", "Django & FastAPI", "React"]
         self.building   = "AI systems that reason over real, private data"
         self.philosophy = "Ship it. Measure it. Keep it grounded."
-        self.contact    = {
-            "portfolio": "https://portfolio.amal-shaji.workers.dev/",
-            "linkedin": "https://www.linkedin.com/in/amal--shaji",
-            "email": "amalshajimgply@gmail.com"
-        }
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something intelligent together.")
